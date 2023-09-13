@@ -1,4 +1,11 @@
-[![img_tag](https://github.com/egebagcivan/meal-random/assets/75989509/3d24e450-19be-48c2-887e-b3450e2e098c)](https://youtube.com/shorts/fGfs1uUlXDI?si=a1WpWYPtahm2fuUh)
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://youtube.com/shorts/fGfs1uUlXDI?si=a1WpWYPtahm2fuUh">
+     <img 
+      src="https://github.com/egebagcivan/meal-random/assets/75989509/3d24e450-19be-48c2-887e-b3450e2e098c" 
+      alt="Everything Is AWESOME" 
+      style="width:40%;">
+      </a>
+    </div>
 
 # Create T3 App
 
