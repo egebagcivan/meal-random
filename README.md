@@ -1,7 +1,7 @@
 <div align="center">
       <a href="https://youtube.com/shorts/fGfs1uUlXDI?si=a1WpWYPtahm2fuUh">
      <img 
-      src="https://github.com/egebagcivan/meal-random/assets/75989509/3d24e450-19be-48c2-887e-b3450e2e098c" 
+      src="https://i.ytimg.com/vi/fGfs1uUlXDI/oar2.jpg?sqp=-oaymwEaCJUDENAFSFXyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLC31VTHddPq7_7d-jlMpPqT3IAxbA" 
       alt="Everything Is AWESOME" 
       style="width:40%;">
       </a>
