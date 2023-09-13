@@ -1,3 +1,5 @@
+[![img_tag](https://github.com/egebagcivan/meal-random/assets/75989509/3d24e450-19be-48c2-887e-b3450e2e098c)](https://youtube.com/shorts/fGfs1uUlXDI?si=a1WpWYPtahm2fuUh)
+
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
